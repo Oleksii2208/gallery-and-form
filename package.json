@@ -5,8 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/
-gallery-and-form/",
+    "build": "vite build --base=/gallery-and-form/",
     "preview": "vite preview"
   },
   "devDependencies": {
